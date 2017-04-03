@@ -21,6 +21,8 @@ Makefile.in
 /m4
 /missing
 
+/config.log
+
 # Eclipse
 .project
 .cproject
